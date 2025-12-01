@@ -1,7 +1,7 @@
 # Lawsuit Case Management System
 
-##SDC320 - Course Project
-##Samantha Riser
+## SDC320 - Course Project
+## Samantha Riser
 
 ## Overview
 This is a C# terminal-based application designed to help users track and manage lawsuit cases. It organizes information about **claimants**, **businesses**, and the **cases** that connect them. The program demonstrates object-oriented programming, class design, and (in later phases) database interaction using SQLite.
